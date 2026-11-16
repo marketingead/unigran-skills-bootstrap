@@ -1,0 +1,25 @@
+{
+  "versao": "2026-11-16",
+  "total_skills": 58,
+  "fontes": [
+    {
+      "repositorio": "mattpocock/skills",
+      "branch": "main",
+      "skills": 27,
+      "url": "https://github.com/mattpocock/skills"
+    },
+    {
+      "repositorio": "affaan-m/ECC",
+      "branch": "main",
+      "skills": 30,
+      "url": "https://github.com/affaan-m/ECC"
+    },
+    {
+      "repositorio": "Graphify-Labs/graphify",
+      "branch": "v8",
+      "skills": 1,
+      "url": "https://github.com/Graphify-Labs/graphify"
+    }
+  ],
+  "nota": "Os arquivos sao obtidos das branches publicas atuais; para reproducibilidade em longo prazo, fixe hashes de commits."
+}
